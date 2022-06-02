@@ -1,0 +1,20 @@
+{
+  "name": "cit281-lab7",
+  "version": "1.0.0",
+  "description": "UO CIT 281 21S Lab 7",
+  "main": "lab-07.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://routing811: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@github.com/UO-CIT-routing811/cit281-lab7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UO-CIT-routing811/cit281-lab7/issues"
+  },
+  "homepage": "https://github.com/UO-CIT-routing811/cit281-lab7#readme"
+}
